@@ -123,10 +123,12 @@
     font-family: 'Kanit', sans-serif;
 }
 
+/* background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(Pamir-Mountains-Tajikistan.jpg); */
+/* background-image: url('currentEvent.image'); */
 .headerOfWebSite {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(Pamir-Mountains-Tajikistan.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url('Pamir-Mountains-Tajikistan.jpg');
     background-position: center;
     background-size: cover;
     position: relative;
