@@ -26,7 +26,7 @@
     </div>
 
     </section>
-
+<img src="2.jpg"/>
 <style>
 
 *{
