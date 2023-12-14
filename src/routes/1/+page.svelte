@@ -9,7 +9,7 @@
         test 3
     </section>
 
-<!-- <img src="2.jpg"/> -->
+    <ul><li>hello</li></ul>
 
 <style>
 .s1 {
@@ -28,6 +28,10 @@
     background-position: center;
     background-size: cover;
     position: relative;
+}
+
+li {
+  list-style-image: url('favicon.png');
 }
 
 /* background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(Pamir-Mountains-Tajikistan.jpg); */
