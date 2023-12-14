@@ -5,17 +5,13 @@
     <section class="s2"> 
         test 2
     </section>
+    <section style="min-height: 100vh;width: 100%;background-image: url('2.jpg') !important;background-position: center;background-size: cover;position: relative;"> 
+        test 3
+    </section>
 
-<img src="2.jpg"/>
+<!-- <img src="2.jpg"/> -->
+
 <style>
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Kanit', sans-serif;
-}
-
 .s1 {
     min-height: 100vh;
     width: 100%;
