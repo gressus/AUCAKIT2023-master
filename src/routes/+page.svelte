@@ -1,5 +1,5 @@
 <!-- <!DOCTYPE html> -->
-<html lang= "en">
+<!-- <html lang= "en">
 
 <head>
     <meta name="viewport" content="with=device-width, initial-scale = 1.0">
@@ -10,7 +10,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
 </head>
 
-<body>  
+<body>   -->
     <section class="headerOfWebSite"> 
         <nav>
             <img src="Mountain-logo-template-on-transparent-background-PNG.png">
@@ -96,7 +96,7 @@
 
     </section>
 <!-- <img src="Pamir-Mountains-Tajikistan.jpg"> -->
-</body>
+<!-- </body> -->
 
 <script>
     var navLinks = document.getElementById("navLinks");
@@ -109,7 +109,7 @@
         }
 </script>
 
-</html>
+<!-- </html> -->
 
 
 
