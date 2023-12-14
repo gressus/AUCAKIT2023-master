@@ -24,8 +24,11 @@
              <br>It’s known for rugged mountains, popular for hiking and climbing. </p>
     <a href="" class="btn">Explore To Know More</a>
     </div>
-
     </section>
+    <section class="s2"> 
+        test
+        </section>
+
 <img src="2.jpg"/>
 <style>
 
@@ -36,11 +39,21 @@
     font-family: 'Kanit', sans-serif;
 }
 
+.s2 {
+    min-height: 100vh;
+    width: 100%;
+    background-image: url('2.jpg') !important;
+    background-position: center;
+    background-size: cover;
+    position: relative;    
+}
+
 /* background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(Pamir-Mountains-Tajikistan.jpg); */
 .headerOfWebSite {
     min-height: 100vh;
     width: 100%;
-    background-image: url('2.jpg') !important;
+    /* background-image: url('2.jpg') !important; */
+    background-image: url('/2.jpg') !important;
     background-position: center;
     background-size: cover;
     position: relative;
