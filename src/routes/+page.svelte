@@ -98,7 +98,7 @@
 <!-- <img src="Pamir-Mountains-Tajikistan.jpg"> -->
 <!-- </body> -->
 
-<script>
+<!-- <script>
     var navLinks = document.getElementById("navLinks");
 
         function showMenu(){
@@ -107,7 +107,7 @@
         function hideMenu(){
             navLinks.style.right = "-200px";
         }
-</script>
+</script> -->
 
 <!-- </html> -->
 
